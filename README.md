@@ -1,2 +1,1 @@
-# hexlet-js
-It's my training repository.
+Мой первый проект на Хекслете
